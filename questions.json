@@ -1,0 +1,191 @@
+{
+    "psychological": [
+      {
+        "prompt": "How do you typically handle stress?",
+        "options": [
+          "A. I seek support from friends or family.",
+          "B. I engage in physical activity or exercise.",
+          "C. I practice relaxation techniques like deep breathing or meditation.",
+          "D. I distract myself with hobbies or entertainment."
+        ]
+      },
+      {
+        "prompt": "How do you cope with failure?",
+        "options": [
+          "A. I try to learn from my mistakes and move forward.",
+          "B. I seek validation and reassurance from others.",
+          "C. I blame external factors for my failure.",
+          "D. I avoid thinking about it and move on quickly."
+        ]
+      },
+      {
+        "prompt": "What motivates you the most?",
+        "options": [
+          "A. Setting and achieving personal goals.",
+          "B. Recognition and praise from others.",
+          "C. Competition with others.",
+          "D. Financial rewards and incentives."
+        ]
+      },
+      {
+        "prompt": "How do you perceive yourself?",
+        "options": [
+          "A. Confident and self-assured.",
+          "B. Insecure and doubtful.",
+          "C. Balanced and realistic.",
+          "D. Constantly striving for improvement."
+        ]
+      },
+      {
+        "prompt": "How do you typically handle conflicts?",
+        "options": [
+          "A. I try to find a compromise and resolve the issue peacefully.",
+          "B. I assert my own needs and opinions aggressively.",
+          "C. I avoid conflicts and keep my feelings to myself.",
+          "D. I seek assistance from a mediator or authority figure."
+        ]
+      }
+    ],
+    "social": [
+      {
+        "prompt": "How do you prefer to spend your free time with friends?",
+        "options": [
+          "A. Engaging in outdoor activities or sports.",
+          "B. Having deep conversations and sharing emotions.",
+          "C. Going to parties or social events.",
+          "D. Playing games or watching movies together."
+        ]
+      },
+      {
+        "prompt": "How do you contribute to your community?",
+        "options": [
+          "A. Volunteering for local charities or organizations.",
+          "B. Engaging in political activism or social causes.",
+          "C. Building relationships and networking.",
+          "D. Maintaining a positive and supportive attitude towards others."
+        ]
+      },
+      {
+        "prompt": "How do you deal with peer pressure?",
+        "options": [
+          "A. Asserting my own values and standing up for myself.",
+          "B. Going along with the crowd to avoid conflict.",
+          "C. Seeking guidance from trusted adults or mentors.",
+          "D. Evaluating the situation and making independent decisions."
+        ]
+      },
+      {
+        "prompt": "How do you maintain friendships?",
+        "options": [
+          "A. Regularly communicating and spending quality time together.",
+          "B. Offering help and support whenever needed.",
+          "C. Giving thoughtful gifts and gestures.",
+          "D. Sharing common interests and hobbies."
+        ]
+      },
+      {
+        "prompt": "What qualities do you value most in a friend?",
+        "options": [
+          "A. Loyalty and honesty.",
+          "B. Humor and lightheartedness.",
+          "C. Intelligence and ambition.",
+          "D. Kindness and empathy."
+        ]
+      }
+    ],
+    "academic": [
+      {
+        "prompt": "How do you approach studying for exams?",
+        "options": [
+          "A. Creating a structured study schedule and sticking to it.",
+          "B. Cramming at the last minute.",
+          "C. Collaborating with classmates to study together.",
+          "D. Seeking help from tutors or academic resources."
+        ]
+      },
+      {
+        "prompt": "How do you handle setbacks in your academic performance?",
+        "options": [
+          "A. Analyzing my mistakes and seeking guidance to improve.",
+          "B. Giving up and accepting failure.",
+          "C. Blaming external factors for my performance.",
+          "D. Ignoring the setback and moving on."
+        ]
+      },
+      {
+        "prompt": "What type of learner are you?",
+        "options": [
+          "A. Visual learner - I learn best through images and diagrams.",
+          "B. Auditory learner - I learn best through listening and discussions.",
+          "C. Kinesthetic learner - I learn best through hands-on activities.",
+          "D. Reading/writing learner - I learn best through reading and writing."
+        ]
+      },
+      {
+        "prompt": "How do you prioritize your academic workload?",
+        "options": [
+          "A. Tackling the most difficult tasks first.",
+          "B. Procrastinating and leaving things until the last minute.",
+          "C. Breaking tasks into smaller, manageable chunks.",
+          "D. Seeking help from peers or instructors when needed."
+        ]
+      },
+      {
+        "prompt": "How do you stay organized with your academic responsibilities?",
+        "options": [
+          "A. Using planners or digital calendars to schedule tasks and deadlines.",
+          "B. Keeping mental notes and relying on memory.",
+          "C. Making to-do lists and checking off completed tasks.",
+          "D. Asking others to remind me of important dates and assignments."
+        ]
+      }
+    ],
+    "self_perception": [
+      {
+        "prompt": "How do you define success?",
+        "options": [
+          "A. Achieving personal goals and fulfillment.",
+          "B. Attaining wealth and material possessions.",
+          "C. Gaining recognition and approval from others.",
+          "D. Having power and influence over others."
+        ]
+      },
+      {
+        "prompt": "What are your greatest strengths?",
+        "options": [
+          "A. Leadership and decision-making.",
+          "B. Creativity and innovation.",
+          "C. Empathy and emotional intelligence.",
+          "D. Analytical thinking and problem-solving."
+        ]
+      },
+      {
+        "prompt": "How do you handle compliments or praise?",
+        "options": [
+          "A. Accepting graciously and expressing gratitude.",
+          "B. Downplaying or deflecting the compliments.",
+          "C. Feeling uncomfortable and awkward.",
+          "D. Dismissing the compliments as insincere."
+        ]
+      },
+      {
+        "prompt": "What areas do you want to improve upon?",
+        "options": [
+          "A. Time management and organization.",
+          "B. Communication and interpersonal skills.",
+          "C. Self-confidence and assertiveness.",
+          "D. Handling stress and emotions."
+        ]
+      },
+      {
+        "prompt": "How do you handle failure or setbacks?",
+        "options": [
+          "A. Viewing them as opportunities for growth and learning.",
+          "B. Feeling discouraged and giving up.",
+          "C. Blaming external factors for the failure.",
+          "D. Avoiding risks to prevent failure."
+        ]
+      }
+    ]
+  }
+  
